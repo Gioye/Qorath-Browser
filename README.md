@@ -1,4 +1,4 @@
-# Qorath-Browser
+# Qorath Browser
 A Custom Python-Powered Open Source Browser
 
 ## Python Libraries
